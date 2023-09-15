@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vipul kumar</h1>
-<h3 align="center">🎓I'm Currently pursuing (B-tech)CSE at Camellia institute of technology.)</h3>
+<h3 align="center">🎓I have Completed (B-tech)CSE from Camellia institute of technology.)</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
