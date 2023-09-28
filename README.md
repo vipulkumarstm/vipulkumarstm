@@ -53,7 +53,7 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=vipulkumarstm )
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulrajdev&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipulkumarstm&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipulkumarstm&show_icons=true&locale=en" alt="vipul" /></p>
 
